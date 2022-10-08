@@ -10,4 +10,3 @@ How to install :
 5. Run Game
 
 If you have any issues please submit them in the issues screen.
-
